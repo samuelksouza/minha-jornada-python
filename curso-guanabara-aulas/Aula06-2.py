@@ -1,2 +1,2 @@
 n = input('Digite algo: ')
-print(n.isa]())
+print(n.isa)
