@@ -4,7 +4,14 @@ Repositório criado para registar a minha evolução diária na programação e 
 
 ## 🚀 Tecnologias e Ferramentas
 * **Linguagem:** Python 3
-* **IDE:** PyCharm
+* **IDE:** VS Code / PyCharm
+
+## 🧠 Conceitos Praticados até o Momento
+* **Estrutura Sequencial:** Entrada de dados (`input`), conversão de tipos (`int`, `float`) e operadores aritméticos.
+* **Estruturas Condicionais:** Controle de fluxo inteligente com `if`, `elif` e `else`.
+* **Estruturas de Repetição:** Loops com `for` (com `range` crescente/decrescente) e `while` (com condições de parada).
+* **Coleções:** Manipulação dinâmica de Listas (`append`).
+* **Módulos Nativos:** Uso de bibliotecas como `time` e `random`.
 
 ## 📂 Organização
 Os exercícios estão divididos por pastas dentro do repositório, organizados por tópicos ou nível de dificuldade à medida que avanço nos estudos.
@@ -14,4 +21,4 @@ Os exercícios estão divididos por pastas dentro do repositório, organizados p
 2. Abre a pasta do exercício no teu terminal ou IDE de preferência.
 3. Executa o ficheiro com o comando:
    ```bash
-   python Exerciciospython.py
+   python minha-jornada-python.py
